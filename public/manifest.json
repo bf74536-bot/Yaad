@@ -1,0 +1,11 @@
+{
+  "name": "YAAD - AI Voice Memory Assistant",
+  "short_name": "YAAD",
+  "description": "Jo Kabhi Nahi Bhoolta - AI Voice Memory Assistant for Indian Students",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020A2A",
+  "theme_color": "#020A2A",
+  "orientation": "portrait",
+  "icons": []
+}
